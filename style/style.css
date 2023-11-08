@@ -1,0 +1,32 @@
+html {
+    font-size: 10px; /* px 表示“像素（pixel）”: 基础字号为 10 像素 */
+    /* i want dramatic font  */
+    font-family: "Comic Sans MS", "Comic Sans", cursive; 
+    background-color: saddlebrown;
+    }
+
+  body {
+    margin: 0 auto;
+    width: 600px;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    background-color: lightblue
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: pink;
+    text-shadow: 2px 2px 0px black;
+
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
